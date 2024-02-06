@@ -2,7 +2,7 @@
   "name": "news",
   "private": true,
   "version": "0.0.0",
-  "proxy": "http://news-app-git-main-vishal-sharmas-projects-07166b4c.vercel.app/",
+  "proxy": "https://news-app-sandy-gamma.vercel.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
